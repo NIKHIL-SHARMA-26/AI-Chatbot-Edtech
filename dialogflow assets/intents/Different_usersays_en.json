@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dccdff54-526c-4db6-9ceb-8e2bdc3b2385",
+    "data": [
+      {
+        "text": "\"What are the advantages of this course over others?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6920bc2e-dabd-401a-973c-51d8ae6ab080",
+    "data": [
+      {
+        "text": "\"What are the distinguishing features of this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3e0d1b8-d9da-4728-8525-f3fd8e43bd29",
+    "data": [
+      {
+        "text": "\"Why should I choose this course over alternatives?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bbaa7a8-a04a-4542-b370-d155ff616646",
+    "data": [
+      {
+        "text": "\"What sets this course apart from others?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8bb02cb-2a42-416e-b7c6-b84f80ab7b39",
+    "data": [
+      {
+        "text": "\"In what ways is this course different?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c822ad3-138c-4069-a64d-9c241fcfc932",
+    "data": [
+      {
+        "text": "\"How is this course unique?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

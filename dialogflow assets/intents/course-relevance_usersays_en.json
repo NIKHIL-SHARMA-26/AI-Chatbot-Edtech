@@ -1,0 +1,103 @@
+[
+  {
+    "id": "deb34778-d9bc-4936-8467-082dc88789e5",
+    "data": [
+      {
+        "text": "\"What advantages does the course offer in the job market?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e3b2591-1036-459d-8daf-7d1c55e3fcbf",
+    "data": [
+      {
+        "text": "\"How does the course cater to industry demands?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c22dc639-9d51-420c-887b-6add0b579a15",
+    "data": [
+      {
+        "text": "\"What makes this course suitable for aspiring professionals?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64738dea-063b-4eab-a1f5-a959213429e5",
+    "data": [
+      {
+        "text": "\"How does the course align with industry requirements?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f929052-c810-4a4f-9dc3-d881f172a222",
+    "data": [
+      {
+        "text": "\"What\u0027s the relevance of this course in the current job market?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed886327-e71d-49cd-92e1-348a6d48b233",
+    "data": [
+      {
+        "text": "\"Why should I take this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e73172a9-2673-477f-810f-e9542414e19a",
+    "data": [
+      {
+        "text": "\"Is this course relevant in ",
+        "userDefined": false
+      },
+      {
+        "text": "today\u0027s",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " market?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

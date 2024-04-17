@@ -1,0 +1,93 @@
+[
+  {
+    "id": "7ad07693-7763-4d48-9927-00f24808e9cd",
+    "data": [
+      {
+        "text": "\"Is good DSA a prerequisite for this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "088bfd43-4427-416f-bcfe-21734292a159",
+    "data": [
+      {
+        "text": "\"What skills should I have before taking this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53404973-3a22-4eb5-8551-5719894ed5c9",
+    "data": [
+      {
+        "text": "\"Is there a proficiency level required for enrollment?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d753a02d-91a8-4717-8808-0082d5ca69a8",
+    "data": [
+      {
+        "text": "\"What\u0027s expected of me before starting the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94dc2eec-a6dc-475e-beda-21c49e5c387f",
+    "data": [
+      {
+        "text": "\"Can beginners enroll in the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "922f19a8-f009-437e-9884-730a4dfeed10",
+    "data": [
+      {
+        "text": "\"What are the prerequisites for enrolling in this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b175c25-4562-481e-8237-ec3079c99230",
+    "data": [
+      {
+        "text": "\"Do I need to meet specific criteria to enroll in the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

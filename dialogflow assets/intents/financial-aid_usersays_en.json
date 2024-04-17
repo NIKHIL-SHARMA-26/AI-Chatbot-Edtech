@@ -1,0 +1,67 @@
+[
+  {
+    "id": "672b85e1-3eb9-4099-9b01-ceb16e8b175e",
+    "data": [
+      {
+        "text": "\"Do you provide financial aid?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "661bb49b-cdd3-4fb2-904f-3cf3019bd549",
+    "data": [
+      {
+        "text": "\"Can I get help with course fees?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2484b397-b2cb-44fb-adae-e6a4f8c8fb46",
+    "data": [
+      {
+        "text": "\"Are there any options for financial support?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "322b4453-daab-4880-b39f-e45124509e0c",
+    "data": [
+      {
+        "text": "\"Is financial assistance available for the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c243dfb-ee9c-4a2a-856b-7402cbfe6b52",
+    "data": [
+      {
+        "text": "\"Does this course offer financial aid?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

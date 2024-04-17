@@ -1,0 +1,9 @@
+{
+  "id": "872ec0e0-f400-45c4-abf8-483b13a30cbf",
+  "name": "development-name",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

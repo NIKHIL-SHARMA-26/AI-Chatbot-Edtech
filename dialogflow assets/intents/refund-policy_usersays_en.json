@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f482a92e-34b2-4294-a67a-34271c527c29",
+    "data": [
+      {
+        "text": "\"Are there conditions for availing a refund?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e76e3d7e-1f51-4208-9960-c3d7f05a6799",
+    "data": [
+      {
+        "text": "\"Can I ask for a refund if I\u0027m unhappy with the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10d1fc20-5e6f-48d6-936f-95e36983cd7b",
+    "data": [
+      {
+        "text": "\"Under what circumstances can I request a refund?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5af9e663-b53b-47ce-aa33-1cf830847991",
+    "data": [
+      {
+        "text": "\"What is the refund policy?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf09e8fe-9f97-43ff-b8c9-a6a37816bb89",
+    "data": [
+      {
+        "text": "\"Is there any money-back guarantee if I did not like the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

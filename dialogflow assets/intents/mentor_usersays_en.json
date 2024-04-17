@@ -1,0 +1,119 @@
+[
+  {
+    "id": "c842f8f5-00b1-4e69-bc9d-433351fb9929",
+    "data": [
+      {
+        "text": "\"Are the mentors experienced in the field?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dc27029-2b49-46ac-b5db-f5d5fd2ec6dd",
+    "data": [
+      {
+        "text": "\"Can you elaborate on the qualifications of the mentors?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ccebc513-0eb8-493e-a6a0-4d16109d6a9d",
+    "data": [
+      {
+        "text": "\"Who designs the course curriculum?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb77d2c1-8498-4174-b786-19a301af510c",
+    "data": [
+      {
+        "text": "\"Are there any industry experts involved in teaching?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "127e63dc-56b0-4dff-b726-5826329d6598",
+    "data": [
+      {
+        "text": "\"How knowledgeable are the course mentors?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7d53945-72fa-4857-bd7f-11cfbc4abdea",
+    "data": [
+      {
+        "text": "\"Can I know more about the teaching faculty?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac0cd68a-0842-46e5-8114-af85ec39fb1a",
+    "data": [
+      {
+        "text": "\"Is there a lead instructor for the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4ec1766-3ae3-4bd4-95d0-f608726d2254",
+    "data": [
+      {
+        "text": "\"Can you tell me about the mentor for this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcb1cdfe-6873-44b1-9c5d-72a0740fef4b",
+    "data": [
+      {
+        "text": "\"Who is the mentor for this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

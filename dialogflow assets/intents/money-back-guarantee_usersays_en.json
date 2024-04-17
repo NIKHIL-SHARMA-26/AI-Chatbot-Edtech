@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e7755602-b731-4d92-8e09-e89b2ab22351",
+    "data": [
+      {
+        "text": "\"unhappy with course?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "169e071f-79c3-4e63-bfe0-e8516834a426",
+    "data": [
+      {
+        "text": "\"refund option?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfefcf96-eec3-4d3b-935c-3000419d596f",
+    "data": [
+      {
+        "text": "\"money back?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7232fb50-dd49-48bf-9064-81a785009577",
+    "data": [
+      {
+        "text": "\"refund policy?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

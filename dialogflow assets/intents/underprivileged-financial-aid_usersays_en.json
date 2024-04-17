@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ea4c86ee-fbfc-44e5-b179-9372164c7197",
+    "data": [
+      {
+        "text": "\"Can underprivileged individuals receive financial assistance for the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb6d126a-9332-4c74-9e93-53a7eca6420a",
+    "data": [
+      {
+        "text": "\"Are there special programs for financially disadvantaged students?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5c7ed3a-162a-4de7-afcc-e96d4b4fe0dc",
+    "data": [
+      {
+        "text": "\"Does this course offer financial aid for underprivileged people?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

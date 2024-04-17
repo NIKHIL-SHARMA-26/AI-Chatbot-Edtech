@@ -1,0 +1,80 @@
+[
+  {
+    "id": "877dd09e-d34d-4986-b570-06356096da8b",
+    "data": [
+      {
+        "text": "            \"Can I study online?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4769b1f5-75c1-402f-af69-fe25a619272f",
+    "data": [
+      {
+        "text": "\"Can I study online?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85c5b213-ec7b-4753-8187-7056c71a3723",
+    "data": [
+      {
+        "text": "\"Do I need internet access to take the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff0f6f16-50bc-4ca7-8b62-d2eaa2104bc9",
+    "data": [
+      {
+        "text": "\"Is the course delivered over the internet?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f6dc69b-d177-4b28-bbc4-b1b108995fee",
+    "data": [
+      {
+        "text": "\"Can I access the course online?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e90f4a38-93f0-4dce-a514-8b84d3e1f7ec",
+    "data": [
+      {
+        "text": "\"Is it an online course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

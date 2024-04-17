@@ -1,0 +1,106 @@
+[
+  {
+    "id": "49fb48d5-129d-45e7-adad-d23296a9297d",
+    "data": [
+      {
+        "text": "\"Can international students enroll in the course?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9ebe2d7-60ec-425c-9cbf-7552d1004b0b",
+    "data": [
+      {
+        "text": "\"Can I enroll over the phone?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15bf6cab-7de6-4b74-8dfb-62875a29a536",
+    "data": [
+      {
+        "text": "\"Do I need to submit any documents for enrollment?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9893c27e-416b-4c31-ace8-d3a79b61f5c7",
+    "data": [
+      {
+        "text": "\"Is there an enrollment deadline?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08da4a85-f74b-4d15-888f-7257cb7e8dd6",
+    "data": [
+      {
+        "text": "\"What are the steps to join the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cbbb0b5-77f4-4238-8b83-885890a1423d",
+    "data": [
+      {
+        "text": "\"How can I sign up for the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a859ba77-5824-4de4-a6ea-752a4b25cf3b",
+    "data": [
+      {
+        "text": "\"What\u0027s the procedure for course enrollment?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "950c1639-5f7d-4078-870e-11e5935d0470",
+    "data": [
+      {
+        "text": "\"How do I enroll in the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

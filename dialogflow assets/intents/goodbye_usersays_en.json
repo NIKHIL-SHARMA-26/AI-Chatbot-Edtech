@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c377cf1e-fc29-4334-8d7c-44332b991e94",
+    "data": [
+      {
+        "text": "See you soon\",\n         \"Catch you later\",\n         \"Until next time\",\n         \"Farewell\",\n         \"Adios\",\n         \"Bye-bye\",\n         \"Later gator\",\n         \"Peace out\",\n         \"Till we meet again\",\n         \"So long\",\n         \"Take it easy\",\n         \"Have a good one\",\n         \"Keep in touch\",\n         \"See you tomorrow\",\n         \"Take care now\",\n         \"Have a great day\",\n         \"Goodnight\",\n         \"Take it easy\",\n         \"I\u0027m out\",\n         \"Off I go\",\n         \"Time to go\",\n         \"Bye for now\",\n         \"See ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "954e6c95-7a6e-4053-b7dc-cc35cd421e31",
+    "data": [
+      {
+        "text": "See you later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eb64ca6-bc0f-4915-9255-9407234a8e5d",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac338730-94cc-4559-9021-a41cfd4c1a50",
+    "data": [
+      {
+        "text": "great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06db0454-3dab-4dd6-84a5-bbd3d78be99d",
+    "data": [
+      {
+        "text": "thanks for helping",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79abd372-a060-42a3-a98c-f45ccef075db",
+    "data": [
+      {
+        "text": "thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

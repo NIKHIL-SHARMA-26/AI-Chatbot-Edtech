@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7fb3b817-68ab-41e9-9160-b0fdc97e7b69",
+    "data": [
+      {
+        "text": "\"What\u0027s the average pay scale for course alumni?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d31f3974-0916-4805-b60f-387107b519d0",
+    "data": [
+      {
+        "text": "\"What\u0027s the expected return on investment in terms of salary?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7463f2d-bbf7-48e4-8cd8-0e5369173cbd",
+    "data": [
+      {
+        "text": "\"What\u0027s the income range for course graduates?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c3e310c2-ee84-4ace-879b-0fbea3cf36a1",
+    "data": [
+      {
+        "text": "\"Will I get a good salary after completing the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

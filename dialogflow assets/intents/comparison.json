@@ -1,0 +1,68 @@
+{
+  "id": "c967501b-267a-415c-9cdf-91effc5d01b5",
+  "name": "comparison",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ba23c848-b02a-41fc-9396-b4e967badc72",
+          "name": "development-name",
+          "required": false,
+          "dataType": "@development-name",
+          "value": "$development-name",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "actionLink": "https://www.geeksforgeeks.org/courses?itm_source\u003dgeeksforgeeks\u0026itm_medium\u003dmain_header\u0026itm_campaign\u003dcourses",
+                  "title": "Visit Our Website"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All the fields $development-name are good. It depends on your interest. you can check this link to learn more about development [https://www.geeksforgeeks.org/courses?itm_source\u003dgeeksforgeeks\u0026itm_medium\u003dmain_header\u0026itm_campaign\u003dcourses]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

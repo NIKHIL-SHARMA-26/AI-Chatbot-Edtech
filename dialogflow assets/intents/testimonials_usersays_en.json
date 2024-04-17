@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cdeb79b2-c153-4f49-814e-6e1f40d79189",
+    "data": [
+      {
+        "text": "\"Is there a platform for sharing course experiences?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0fc59fc-75e8-4ba9-a93d-f4bc319129a8",
+    "data": [
+      {
+        "text": "\"Can I find out what others think about the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db65ebb3-b46e-4ca1-80ac-d2432c34c37a",
+    "data": [
+      {
+        "text": "\"How can I ",
+        "userDefined": false
+      },
+      {
+        "text": "learn",
+        "meta": "@development-name",
+        "alias": "development-name",
+        "userDefined": false
+      },
+      {
+        "text": " about experiences of former students?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8ee0486-62c4-4349-9348-ef903950c90b",
+    "data": [
+      {
+        "text": "\"Can I find comments from students who completed the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a44f31c1-547b-4fd8-9d7f-6d2f302ef81a",
+    "data": [
+      {
+        "text": "\"Where can I find endorsements for the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57943d4f-1a53-4524-a450-c5f3f8e6d801",
+    "data": [
+      {
+        "text": "\"How can I view opinions of previous course takers?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5058159-7c46-4bad-aa5c-62a5c7440b03",
+    "data": [
+      {
+        "text": "\"Where can I read success stories from course graduates?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5de3ffb-0a4e-4353-a850-9d981f2cc36a",
+    "data": [
+      {
+        "text": "\"What do other students say about this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fe45ba4-1a17-487d-8c36-bbe71f734a73",
+    "data": [
+      {
+        "text": "\"Can I see reviews or testimonials of the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "334fb9dd-689c-4545-ae21-be82cddd9477",
+    "data": [
+      {
+        "text": "\"Where can I get testimonials for this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

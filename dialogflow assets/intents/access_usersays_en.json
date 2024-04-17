@@ -1,0 +1,93 @@
+[
+  {
+    "id": "acb2ef0b-d076-435c-8f90-f809df4afa16",
+    "data": [
+      {
+        "text": "\"Is there a dedicated portal for course participants?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aabc622c-3ce5-48f3-b66d-b42d9f30311f",
+    "data": [
+      {
+        "text": "\"Is there a mobile app for course access?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7b37999-e137-4920-a123-1684bd4b583d",
+    "data": [
+      {
+        "text": "\"Is the course delivered through videos or text?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87bd2d90-a2be-4a2d-aca4-33c730e231aa",
+    "data": [
+      {
+        "text": "\"Can I access the course offline?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc9d3225-90d2-4676-87b0-bbf67cf8fe44",
+    "data": [
+      {
+        "text": "\"Is there a specific platform for course delivery?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "664adf5f-cbd9-44a6-94c1-6fd33e04a0a6",
+    "data": [
+      {
+        "text": "\"How does the course delivery work?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b64402c1-25fb-4cf1-8875-ab0fab43228b",
+    "data": [
+      {
+        "text": "\"How can I access the course content?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

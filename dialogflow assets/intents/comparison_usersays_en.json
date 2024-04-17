@@ -1,0 +1,27 @@
+[
+  {
+    "id": "4f2f0bda-ad55-40aa-a360-b6cc06453d7c",
+    "data": [
+      {
+        "text": "web development",
+        "meta": "@development-name",
+        "alias": "development-name",
+        "userDefined": false
+      },
+      {
+        "text": " vs ",
+        "userDefined": false
+      },
+      {
+        "text": "AI",
+        "meta": "@development-name",
+        "alias": "development-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

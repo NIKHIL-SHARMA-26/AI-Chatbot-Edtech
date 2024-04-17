@@ -1,0 +1,93 @@
+[
+  {
+    "id": "ea10a8b9-7812-4b9f-9a17-42c5e518888c",
+    "data": [
+      {
+        "text": "\"Is DSA a prerequisite or recommendation?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcc5e40f-abe7-4227-8ea0-24ce92354105",
+    "data": [
+      {
+        "text": "\"Do I need DSA understanding?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ebf5095-8e43-46be-bdc4-f9689def05b3",
+    "data": [
+      {
+        "text": "\"Is DSA a prerequisite?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18722298-c64e-4283-b704-20d30071345b",
+    "data": [
+      {
+        "text": "\"Is DSA necessary?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbc94e49-7553-4256-bb23-8c69d1a410a9",
+    "data": [
+      {
+        "text": "\"Should I be familiar with DSA concepts?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2ca90d1-db85-4663-81a7-140b3d9e662d",
+    "data": [
+      {
+        "text": "\"Do I need DSA skills?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "881b7338-3ed4-4461-b5ab-8a165a1c6003",
+    "data": [
+      {
+        "text": "\"Do I need to know DSA for this course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "39cab3fb-46c4-4dcb-82b7-30f77cc9a2d2",
+    "data": [
+      {
+        "text": "\"Is there peer assessment in the course?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7089a56-c9d6-4f30-a8b7-4c762a18b458",
+    "data": [
+      {
+        "text": "\"Are there any oral presentations as part of assessment?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bae51c0e-41ca-48c6-a379-7bb1abd1610b",
+    "data": [
+      {
+        "text": "\"Do I need to pass exams to complete the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86e50b8d-679b-4001-ac8c-c07fdf023fb8",
+    "data": [
+      {
+        "text": "\"Are there practical exercises in the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35b85cbf-fa6c-4e63-accf-232cb6823161",
+    "data": [
+      {
+        "text": "\"Are there any assessments after each module?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7670619a-bcf3-41dc-a341-8721eedf9ad2",
+    "data": [
+      {
+        "text": "\"How are assignments graded in the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1b3fd45-02d5-4fb6-bf23-fd89a677a354",
+    "data": [
+      {
+        "text": "\"Are there quizzes or exams during the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ceb0545e-b2d3-4c57-94fb-583d0fef99c0",
+    "data": [
+      {
+        "text": "\"How will I be assessed in the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

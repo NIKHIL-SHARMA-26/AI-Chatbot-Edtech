@@ -1,0 +1,77 @@
+[
+  {
+    "id": "f76eba9e-f87c-4608-afcf-3d205506367e",
+    "data": [
+      {
+        "text": "\"Will completing the course help with employment?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "076dd0cd-4074-4e05-8140-c0d7cae51653",
+    "data": [
+      {
+        "text": "\"Can I expect assistance with career ",
+        "userDefined": false
+      },
+      {
+        "text": "development",
+        "meta": "@development-name",
+        "alias": "development-name",
+        "userDefined": false
+      },
+      {
+        "text": "?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8329863e-b488-4b9c-89e1-7a7110f11784",
+    "data": [
+      {
+        "text": "\"What are the job prospects post-course completion?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e27c722-51e7-4fab-8f93-c97d416a7623",
+    "data": [
+      {
+        "text": "\"What are the career prospects after completing the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4715636-dd73-4b8b-8e0e-21f6061c2ef8",
+    "data": [
+      {
+        "text": "\"Does this course offer placement opportunities?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

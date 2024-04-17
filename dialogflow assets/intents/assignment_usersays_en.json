@@ -1,0 +1,93 @@
+[
+  {
+    "id": "d1467f4c-6e23-4e62-8455-b07293cc6fef",
+    "data": [
+      {
+        "text": "            \"Assignment workload?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ff5793a-673c-4c50-888c-fc1c505f69ea",
+    "data": [
+      {
+        "text": "\"Assignment workload?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ec1fc0a-b3cc-4cd3-bf04-d530c0ec5d07",
+    "data": [
+      {
+        "text": "\"Assignment purpose?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54e3ffa3-0982-48eb-a661-a3550f9dbbe4",
+    "data": [
+      {
+        "text": "\"Assignment format?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d4380bf-6c28-4329-8b23-747ff6c78349",
+    "data": [
+      {
+        "text": "\"Assignments structure?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db384d11-d663-4b42-b33e-3037569eecce",
+    "data": [
+      {
+        "text": "\"About assignments?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49869c9d-667a-4a6f-a025-a0739b8baba9",
+    "data": [
+      {
+        "text": "\"Type of assignments?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

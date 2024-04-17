@@ -1,0 +1,93 @@
+[
+  {
+    "id": "2a1936bf-9a5e-448b-b71d-61f592ba3875",
+    "data": [
+      {
+        "text": "\"What\u0027s the total expense for the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c2c053c-930a-44ba-bc5b-456907e1d0e1",
+    "data": [
+      {
+        "text": "\"What\u0027s the price of the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da77db43-4219-432d-8909-59d7d70cf0a7",
+    "data": [
+      {
+        "text": "How expensive is the course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef5c6db4-761d-48f6-b019-95f0402d5b7c",
+    "data": [
+      {
+        "text": "Can you provide information about the course fee?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37c415e3-96b5-441e-b4c2-f26078afad76",
+    "data": [
+      {
+        "text": "Is there any cost associated with the course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1a11be0-49f0-45a8-86bd-e4b40d28450d",
+    "data": [
+      {
+        "text": "What is the fee for the course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e43436a0-d57e-457f-b0da-837d7f756ac3",
+    "data": [
+      {
+        "text": "How much does the course cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

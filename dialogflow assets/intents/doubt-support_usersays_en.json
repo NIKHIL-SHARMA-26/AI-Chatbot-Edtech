@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cc7545a5-bf50-44b7-bb24-97a66e61e188",
+    "data": [
+      {
+        "text": "\"What is the doubt resolution process?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1e8e063-043a-4695-b2cb-ab9945bb3785",
+    "data": [
+      {
+        "text": "\"How can I get help with unclear concepts?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8036f222-ae96-47a3-8160-9efdd8eb6c20",
+    "data": [
+      {
+        "text": "\"How do I resolve my doubts?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00118d55-a00b-486d-811e-7b0c57730318",
+    "data": [
+      {
+        "text": "\"Is there assistance for clarifying doubts?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a2d4358-b296-47a9-9a9a-ea470c595b9c",
+    "data": [
+      {
+        "text": "\"What is the support system for doubts?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ba0da4c-c08d-42ba-9461-899d5c3f8594",
+    "data": [
+      {
+        "text": "\"How does doubt support work?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "f31e9355-3e11-4bc1-a872-b8656f46cc87",
+    "data": [
+      {
+        "text": "\"Payment schedule with EMI?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37a87413-5812-417e-b38d-c31a61b8f4a1",
+    "data": [
+      {
+        "text": "\"EMI arrangement?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d57d1251-4c33-49cd-8c00-d3891983fbf7",
+    "data": [
+      {
+        "text": "\"Pay over time with EMI?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b179a751-c47e-465d-8522-776d8b35e54d",
+    "data": [
+      {
+        "text": "\"Deferred payments with EMI?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "905d272f-fed2-444d-8b44-2c0c914bf726",
+    "data": [
+      {
+        "text": "\"EMI options?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "779cc03a-f8b4-44f9-9c9b-21b47902dce3",
+    "data": [
+      {
+        "text": "\"Are there EMI options available?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21e89f21-b119-4e32-aa25-fc3f2172589e",
+    "data": [
+      {
+        "text": "\"Can I pay in EMI?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "d9daf591-ba91-498d-8851-b7ce83e7521f",
+    "data": [
+      {
+        "text": "\"What\u0027s the typical length of the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8791434-5c3f-4543-88e0-fd039613fb4c",
+    "data": [
+      {
+        "text": "\"How many weeks/months does the course run for?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "946ab91f-56e8-41dc-bbd4-534ed9b8beee",
+    "data": [
+      {
+        "text": "\"What\u0027s the time frame for completing the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5abcbca-641a-49a1-8bcf-50b8507945d5",
+    "data": [
+      {
+        "text": "\"What is the duration of the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba92c05c-5af8-4151-b012-04041fa86f75",
+    "data": [
+      {
+        "text": "\"How long does the course take to complete?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

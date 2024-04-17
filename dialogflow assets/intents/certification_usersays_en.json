@@ -1,0 +1,106 @@
+[
+  {
+    "id": "d66ac7b0-ebd5-46b5-a07e-eba0f8452fa4",
+    "data": [
+      {
+        "text": "\"Is the certification industry-standard?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6d73da3-0b3e-4d06-9dcf-e6f76fcd7ca4",
+    "data": [
+      {
+        "text": "\"Will I get a digital badge or credential after the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42843fac-1b7f-4214-9110-5375e4294b86",
+    "data": [
+      {
+        "text": "\"What\u0027s the credibility of the course certificate?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a2433dd-5112-4ea5-a85d-ce985f6a6f6c",
+    "data": [
+      {
+        "text": "\"Is the course completion certificate valid?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26ad7e33-307a-4ad1-a362-329df21dafee",
+    "data": [
+      {
+        "text": "\"What is the value of the course certificate?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa28957e-aad9-41da-abb0-99f4c3129ba1",
+    "data": [
+      {
+        "text": "\"Is the course certificate recognized?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c000ad36-1fb5-4dd2-8c48-44185fe5f87a",
+    "data": [
+      {
+        "text": "\"Can I get a certificate upon completing the course?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "edf76bfd-8737-4154-8161-6ce235a828a7",
+    "data": [
+      {
+        "text": "\"Does this course offer any certificate?\",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

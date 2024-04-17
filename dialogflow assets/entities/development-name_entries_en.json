@@ -1,0 +1,26 @@
+[
+  {
+    "value": "web development",
+    "synonyms": [
+      "web development",
+      "web",
+      "wed dev"
+    ]
+  },
+  {
+    "value": "AI",
+    "synonyms": [
+      "AI",
+      "ai",
+      "artifical intelligence"
+    ]
+  },
+  {
+    "value": "ML",
+    "synonyms": [
+      "ML",
+      "Machine learning",
+      "ml"
+    ]
+  }
+]

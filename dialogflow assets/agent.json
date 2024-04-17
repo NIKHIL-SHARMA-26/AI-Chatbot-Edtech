@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "AI-ChatBot",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Almaty",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "169e8c7e391c47e398d00097cf5d0475",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/ai-chatbot-lhjy/knowledgeBases/MTQ1NTA3Njc4MzIwNzQ4MTM0NDE",
+    "projects/ai-chatbot-lhjy/knowledgeBases/NjgyNjE2MjA4NTI3NDA1ODc1Mw"
+  ],
+  "knowledgeServiceConfidenceAdjustment": -0.6,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
